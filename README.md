@@ -1,7 +1,7 @@
 # xEdify
  Update-binary for Android Recovery<br />
  <br />
-## Mini description: (see file update-binary)
+## Mini description: (see file [update-binary](https://github.com/Octanium91/xEdify/blob/master/update-binary "update-binary"))
  xEdify binary for Android Recovery (TWRP)<br /> 
  Based on Unix-Shell script (bash)<br />
 <br />
