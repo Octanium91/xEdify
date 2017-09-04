@@ -7,7 +7,7 @@
 <br />
  Created by `blackeangel` (Donate: [PayPal](https://www.paypal.me/blackeangel "PayPal"))<br />
  Edited by `Octanium` (Donate: [Patreon](https://www.patreon.com/octanium "Patreon"))<br />
-### Usung:
+### Using:
  Like standart update-binary.<br />
  Put in script:<br />
  ```
